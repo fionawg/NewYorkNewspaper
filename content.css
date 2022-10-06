@@ -1,0 +1,56 @@
+.page {
+  width: 340px;
+  height: 480px;
+  background-color: #D3D0CB;
+  padding-right: 10px;
+  padding-bottom: 100px;
+  border: 2px solid rgb(0, 0, 0);
+  border-radius: 20px;
+  background-image: url("https://coolbackgrounds.io/images/backgrounds/white/pure-white-background-85a2a7fd.jpg");
+}
+
+#article_title {
+  font-size: 25px;
+  font-family: 'Anton';
+  letter-spacing: 5px;
+  color: #461220;
+  margin-top: 20px;
+  padding-left: 20px;
+  margin-bottom: -2px;
+}
+
+#intro {
+  font-size: 14.5px;
+  font-family: 'Oswald';
+  line-height: 35px;
+  color: #8C2F39;
+  padding-left: 20px;
+}
+
+.question {
+  font-family: 'Railway';
+  color: #4C5760;
+  padding-left: 15px;
+  margin-bottom: -20px;
+}
+
+.answer{
+  font-family: 'Railway';
+  color: #4C5760;
+  padding-left: 15px;
+}
+
+#block_quote {
+  font-family: 'Oswald';
+  font-size: 18px;
+  color: #8C2F39;
+  margin-left: 90px;
+  padding-left: 10px;
+  margin-top: -3px;
+  margin-bottom: -3px;
+  margin-right: 50px;
+  border-color: #4C5760;
+  border-left-style: solid;
+  border-left-width: 1px;
+  text-shadow: 1px 1px #6e6e6e;
+}
